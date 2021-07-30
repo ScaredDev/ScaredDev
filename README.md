@@ -1,7 +1,7 @@
 ### Hi there im Daniel / ScaredDev 👋
 
 ## I'm a Germany AntiCrash Developer who loves to laugh at Crasher.
-- 🔭 Working on Minecraft AntiCheat.
+- 🔭 Working on new Minecraft AntiCrash Solution.
 - 📫 How to reach me: Discord: ScaredDev#2615
 - :palm_tree: I am currently protecting a few large German networks
 
