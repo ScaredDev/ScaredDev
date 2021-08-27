@@ -1,6 +1,6 @@
 ### Hi there im Daniel / ScaredDev 👋
 
-## I'm a Germany AntiCrash Developer who loves to laugh at Crasher.
+## I'm a German AntiCrash Developer who loves to laugh at Crasher.
 - 🔭 Working on ArtemisAC (Exploit Prevention Developer).
 - 📫 How to reach me: Discord: ScaredDev#2615
 - :palm_tree: I am currently protecting a few large German networks
