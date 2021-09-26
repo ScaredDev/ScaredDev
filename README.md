@@ -7,7 +7,7 @@ I'm a Java developer living in Germany, I am programming with Java since beginni
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" height="auto" width="40px">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="auto" width="40px">
   <img src="https://raw.githubusercontent.com/Rainnny7/Rainnny7/master/assets/maven.svg" height="40px" width="40px">
-  <img src="https://user-images.githubusercontent.com/59137634/134815631-328f6d37-5960-4b1e-b635-361bb6f7ed8b.png" height="auto" width="40px">
+  <img src="https://user-images.githubusercontent.com/59137634/134815631-328f6d37-5960-4b1e-b635-361bb6f7ed8b.png" height="30" width="40px">
 </p>
 
 ### :technologist: Recent Projects:
