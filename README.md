@@ -12,7 +12,7 @@ I'm a Java developer living in Germany, I am programming with Java since beginni
 
 ### :hammer: Recent Projects:
 - &nbsp;Artemis **-** Artemis is an AntiCheat, with developers with over 5 years of experience.
-- &nbsp;CrashFix **-** CrashFix is an AntiCrash against Client/Spigot-Crash exploits, the performance of the main thread is kept at the highest level.
+- &nbsp;CrashFix **-** CrashFix is an AntiCrash against Spigot-Crash exploits, the performance of the main thread is kept at the highest level.
 
 ### ☎️ Contact:
 - <img src="https://raw.githubusercontent.com/Rainnny7/Rainnny7/master/assets/discord.svg" width="15px"> Discord **-** ScaredDev#2615 / https://discord.gg/9KrCsBJ7e5
