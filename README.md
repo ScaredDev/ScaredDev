@@ -19,7 +19,7 @@ I am a Java developer living in Germany, I am programming with Java since beginn
 </p>
 
 ### :technologist: Recent Projects:
-- &nbsp;<img src="https://avatars.githubusercontent.com/u/69007781?s=200&v=4" height="15px" width="20px"> Artemis **-** Artemis is an AntiCheat.
+- &nbsp;<img src="https://avatars.githubusercontent.com/u/69007781?s=200&v=4" height="15px" width="15px"> Artemis **-** Artemis is an AntiCheat.
 
 ### ☎️ Contact:
 - <img src="https://user-images.githubusercontent.com/59137634/134815017-6b34169e-c74c-4196-b0fa-1af18e914214.png" width="15px"> Discord **-** ScaredDev#2615 / https://discord.gg/9KrCsBJ7e5
