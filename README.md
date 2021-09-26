@@ -12,7 +12,7 @@ I'm a Java developer living in Germany, I am programming with Java since beginni
 
 ### :technologist: Recent Projects:
 - &nbsp;<img src="https://user-images.githubusercontent.com/59137634/134815510-2f820020-a7f3-4402-889a-414c740ebd87.png" height="15px" width="15px"> Artemis **-** Artemis is an AntiCheat.
-- &nbsp;<img src="https://user-images.githubusercontent.com/59137634/134815762-cb82e056-f0ae-4d9f-aece-d8c8f08e89f9.png" height="15px" width="20px"> CrashFix **-** CrashFix is an AntiCrash against Spigot Exploits.
+- &nbsp;<img src="https://user-images.githubusercontent.com/59137634/134815762-cb82e056-f0ae-4d9f-aece-d8c8f08e89f9.png" height="15px" width="22px"> CrashFix **-** CrashFix is an AntiCrash against Spigot Exploits.
 
 ### ☎️ Contact:
 - <img src="https://raw.githubusercontent.com/Rainnny7/Rainnny7/master/assets/discord.svg" width="15px"> Discord **-** ScaredDev#2615 / https://discord.gg/9KrCsBJ7e5
