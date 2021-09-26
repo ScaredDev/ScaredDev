@@ -12,8 +12,8 @@ I am a Java developer living in Germany, I am programming with Java since beginn
 
 ### :sparkles: Skills:
 <p align="left">
-  <img src="https://heise.cloudimg.io/width/600/q75.png-lossy-75.webp-lossy-75.foil1/_www-heise-de_/tipps-tricks/imgs/96/2/4/3/3/5/8/1/Bildschirmfoto_2018-05-30_um_08-6aae3c7af906438d.png" height="auto" width="40px">
-  <img src="https://raw.githubusercontent.com/Rainnny7/Rainnny7/master/assets/git.svg" height="auto" width="40px">
+  <img src="![image](https://user-images.githubusercontent.com/59137634/134814775-7c434759-2cb5-4ac5-8f7a-62b66b6ef873.png)" height="auto" width="40px">
+  <img src="![image](https://user-images.githubusercontent.com/59137634/134814826-56aa49e3-e51e-49ed-83fb-184714f59470.png)" height="auto" width="40px">
   <img src="https://raw.githubusercontent.com/Rainnny7/Rainnny7/master/assets/maven.svg" height="40px" width="40px">
   <img src="https://raw.githubusercontent.com/Rainnny7/Rainnny7/master/assets/mongodb.svg" height="auto" width="40px">
 </p>
