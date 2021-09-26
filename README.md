@@ -15,7 +15,7 @@ I am a Java developer living in Germany, I am programming with Java since beginn
   <img src="https://user-images.githubusercontent.com/59137634/134815111-4d34bc98-7296-447b-aee3-09acb89f53df.png" height="auto" width="40px">
   <img src="https://user-images.githubusercontent.com/59137634/134814826-56aa49e3-e51e-49ed-83fb-184714f59470.png" height="auto" width="40px">
   <img src="https://user-images.githubusercontent.com/59137634/134815097-2be7ef6a-677a-436f-a796-b45de6a23d35.png" height="40px" width="40px">
-  <img src="https://user-images.githubusercontent.com/59137634/134815133-459db54d-7e37-4f6b-9c24-b0d4ef8fc482.png" height="auto" width="40px">
+  <img src="https://user-images.githubusercontent.com/59137634/134815240-9d412ccc-d52f-48ca-892b-a353864fcd54.png" height="auto" width="40px">
 </p>
 
 ### :technologist: Recent Projects:
