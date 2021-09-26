@@ -12,17 +12,17 @@ I am a Java developer living in Germany, I am programming with Java since beginn
 
 ### :sparkles: Skills:
 <p align="left">
-  <img src="![image](https://user-images.githubusercontent.com/59137634/134814775-7c434759-2cb5-4ac5-8f7a-62b66b6ef873.png)" height="auto" width="40px">
+  <img src="https://user-images.githubusercontent.com/59137634/134815111-4d34bc98-7296-447b-aee3-09acb89f53df.png" height="auto" width="40px">
   <img src="https://user-images.githubusercontent.com/59137634/134814826-56aa49e3-e51e-49ed-83fb-184714f59470.png" height="auto" width="40px">
-  <img src="https://raw.githubusercontent.com/Rainnny7/Rainnny7/master/assets/maven.svg" height="40px" width="40px">
-  <img src="https://raw.githubusercontent.com/Rainnny7/Rainnny7/master/assets/mongodb.svg" height="auto" width="40px">
+  <img src="https://user-images.githubusercontent.com/59137634/134815097-2be7ef6a-677a-436f-a796-b45de6a23d35.png" height="40px" width="40px">
+  <img src="https://user-images.githubusercontent.com/59137634/134815040-0129a5e4-cae2-434e-b871-c4a19322da58.png" height="auto" width="40px">
 </p>
 
 ### :technologist: Recent Projects:
 - &nbsp;<img src="https://avatars.githubusercontent.com/u/69007781?s=200&v=4" height="15px" width="15px"> Artemis **-** Artemis is an AntiCheat.
 
 ### ☎️ Contact:
-- <img src="https://user-images.githubusercontent.com/59137634/134814987-c504120e-6bcc-42c8-a695-accf9bb75746.png" width="15px"> Discord **-** ScaredDev#2615 / https://discord.gg/9KrCsBJ7e5
+- <img src="https://user-images.githubusercontent.com/59137634/134815017-6b34169e-c74c-4196-b0fa-1af18e914214.png" width="15px"> Discord **-** ScaredDev#2615 / https://discord.gg/9KrCsBJ7e5
 
 ### :bar_chart: GitHub Stats:
 <p align="center">
