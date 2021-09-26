@@ -1,13 +1,18 @@
-### Hi there im Daniel / ScaredDev 👋
+<h1 align="center">ScaredDev</h1>
 
-## I'm a German AntiCrash Developer who loves to laugh at Crasher.
-- 🔭 Working on ArtemisAC (Exploit Prevention Developer).
-- 📫 How to reach me: Discord: ScaredDev#2615
-- :palm_tree: I am currently protecting a few large German networks
+<p align="center">Java Developer</p>
 
-<h3 align="left">Contact:</h3>
-<p align="left">
-<a href="https://twitter.com/ScaredDev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="StyyClient" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCeg--yYH1wVF1Wf45oU_Djw"blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="UCeg--yYH1wVF1Wf45oU_Djw " height="30" width="40" /></a>
-<a href="https://discord.gg/5XjGVxFrbC" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="r7R4jRT" height="30" width="40" /></a>
+<a href="https://discord.gg/9KrCsBJ7e5">
+  <p align="center">Join my Discord server!</p>
+</a>
+
+
+<a href="https://github.com/ScaredDev">
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=ScaredDev" alt="Profile Views">
+  </p>
+</a>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ScaredDev&show_icons=true&theme=radical" />
 </p>
