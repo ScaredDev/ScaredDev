@@ -15,7 +15,7 @@ I'm a Java developer living in Germany, I am programming with Java since beginni
 - &nbsp;CrashFix **-** CrashFix is an AntiCrash against Spigot-Crash exploits, the performance of the main thread is kept at the highest level.
 
 ### ☎️ Contact:
-- <img src="https://raw.githubusercontent.com/Rainnny7/Rainnny7/master/assets/discord.svg" width="15px"> Discord **-** ScaredDev#2615 / https://discord.gg/9KrCsBJ7e5
+- <img src="https://raw.githubusercontent.com/Rainnny7/Rainnny7/master/assets/discord.svg" width="15px"> Discord **-** ScaredDev#2615 / https://discord.gg/vtxDXAbZVN
 
 ### :bar_chart: GitHub Stats:
 <p align="center">
