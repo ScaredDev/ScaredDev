@@ -17,7 +17,7 @@ I am a Minecraft security developer and keep one of the biggest German networks 
 - &nbsp;CrashFix **-** CrashFix is an AntiCrash against Spigot-Crash exploits, the performance of the main thread is kept at the highest level.
 
 ### ☎️ Contact:
-- <img src="https://raw.githubusercontent.com/Rainnny7/Rainnny7/master/assets/discord.svg" width="15px"> Discord **-** ScaredDev#2615 / https://discord.gg/vtxDXAbZVN
+- <img src="https://raw.githubusercontent.com/Rainnny7/Rainnny7/master/assets/discord.svg" width="15px"> Discord **-** ScaredDev#2615 / https://scared-development.de/
 
 ### :bar_chart: GitHub Stats:
 <p align="center">
