@@ -1,6 +1,7 @@
 # Hi there, I'm Daniel! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="25px">
 
 I'm a Java developer living in Germany, I am programming with Java since beginning of 2019 and I like programming for networks.
+Minecraft Network Security Developer.
 
 ### :sparkles: Skills:
 <p align="left">
