@@ -2,7 +2,7 @@
 
 I'm a Java developer living in Germany, I am programming with Java since beginning of 2019 and I like programming for networks.
 
-I am a Minecraft security developer and keep one of the biggest German networks running.
+I'm a Minecraft security developer and keep several of the biggest German networks running.
 I am currently working stricly on new technologies in the minecraft security world to fight exploits and crashes more and more securely while keeping performance unaffected.
 
 ### :sparkles: Skills:
@@ -19,6 +19,7 @@ I am currently working stricly on new technologies in the minecraft security wor
 
 ### ☎️ Contact:
 - <img src="https://raw.githubusercontent.com/Rainnny7/Rainnny7/master/assets/discord.svg" width="15px"> Discord **-** ScaredDev#2615 / https://scared-development.de/
+- If you are a server owner and are a victim of crashes or exploits? Then please contact me and I will help you.
 
 ### :bar_chart: GitHub Stats:
 <p align="center">
