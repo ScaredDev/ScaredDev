@@ -3,6 +3,7 @@
 I'm a Java developer living in Germany, I am programming with Java since beginning of 2019 and I like programming for networks.
 
 I am a Minecraft security developer and keep one of the biggest German networks running.
+I am currently working stricly on new technologies in the minecraft security world to fight exploits and crashes more and more securely while keeping performance unaffected.
 
 ### :sparkles: Skills:
 <p align="left">
