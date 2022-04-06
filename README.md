@@ -13,10 +13,6 @@ I am currently working stricly on new technologies in the minecraft security wor
   <img src="https://raw.githubusercontent.com/Rainnny7/Rainnny7/master/assets/mongodb.svg" height="40" width="40px">
 </p>
 
-### :hammer: Recent Projects:
-- &nbsp;Artemis **-** Artemis is an AntiCheat, with developers with over 5 years of experience.
-- &nbsp;CrashFix **-** CrashFix is an AntiCrash against Spigot-Crash exploits, the performance of the main thread is kept at the highest level.
-
 ### ☎️ Contact:
 - <img src="https://raw.githubusercontent.com/Rainnny7/Rainnny7/master/assets/discord.svg" width="15px"> Discord **-** ScaredDev#2615 / https://scared-development.de/
 - If you are a server owner and are a victim of crashes or exploits? Then please contact me and I will help you.
