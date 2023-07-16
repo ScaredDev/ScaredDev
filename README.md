@@ -12,7 +12,7 @@ I am currently working on my anti-cheat (Thunder Anti-Cheat).
 </p>
 
 ### ☎️ Contact:
-- <img src="https://raw.githubusercontent.com/Rainnny7/Rainnny7/master/assets/discord.svg" width="15px"> Discord **-** ScaredDev#2615 / https://scared-development.de/
+- Discord **-** ScaredDev#2615 / https://discord.gg/RuHDfuEG5j
 - If you are a server owner and are a victim of crashes or exploits? Then please contact me and I will help you.
 
 ### :bar_chart: GitHub Stats:
