@@ -1,4 +1,4 @@
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=ScaredDev&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
+
 
 ### Projects:
 - (CrashFix) One of the best anti-crashers since 2021 Dec. Several large German networks are protected by CrashFix.
